@@ -5,7 +5,7 @@
   </div>
   
   <h1 align="center">Hi 👋, I'm Seungwon</h1>
-<h3 align="center">I'm developer backend</h3>
+<h3 align="center">I want to be a backend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
