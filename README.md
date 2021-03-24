@@ -4,8 +4,7 @@
 	
   </div>
 
-### Hi there 👋  JAVASCRIPT
-JA
+https://img.shields.io/badge/<LABEL>-<JAVASCRIPT>-<yellow>
 
 
 louis7308/louis7308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
