@@ -31,3 +31,5 @@
 <a href="https://discord.gg/승원#9413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="승원#9413" height="30" width="40" /></a>
 	<p> 승원#9413 </p>
 </p>
+
+![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
